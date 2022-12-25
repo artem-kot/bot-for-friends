@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2de8f90-a01b-49a5-8b6b-ddd102f9a92a" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/telegram/bot/BotMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/telegram/bot/CommonMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/telegram/bot/ComplimentObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/telegram/bot/ComplimentsBot.java" afterDir="false" />
+    <list default="true" id="f2de8f90-a01b-49a5-8b6b-ddd102f9a92a" name="Changes" comment="Bot is ready.">
+      <change afterPath="$PROJECT_DIR$/glitch.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/telegram/bot/BotMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/telegram/bot/BotMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671923378540</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Bot is ready.">
+      <created>1671938160243</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671938160243</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Bot is ready." />
+    <option name="LAST_COMMIT_MESSAGE" value="Bot is ready." />
   </component>
 </project>

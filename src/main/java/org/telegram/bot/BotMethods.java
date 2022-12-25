@@ -23,7 +23,6 @@ public class BotMethods extends TelegramLongPollingBot {
     }
 
     @Override
-    @SneakyThrows
     public void onUpdateReceived(Update update) {
     }
 
