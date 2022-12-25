@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2de8f90-a01b-49a5-8b6b-ddd102f9a92a" name="Changes" comment="Fixed syntax error." />
+    <list default="true" id="f2de8f90-a01b-49a5-8b6b-ddd102f9a92a" name="Changes" comment="Changed target to 8th version of java.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671940022811</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Changed target to 8th version of java.">
+      <created>1671940442873</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671940442873</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,6 +136,7 @@
     <MESSAGE value="Bot is ready." />
     <MESSAGE value="Adding spark. Added glitch config json file." />
     <MESSAGE value="Fixed syntax error." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed syntax error." />
+    <MESSAGE value="Changed target to 8th version of java." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed target to 8th version of java." />
   </component>
 </project>
