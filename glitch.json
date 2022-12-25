@@ -1,5 +1,5 @@
 {
-  "start": "java -cp target/classes/org/telegram/bot:'target/dependency/*' ComplimentsBot",
+  "start": "java -cp target/classes:'target/dependency/*' org.telegram.bot.ComplimentsBot",
   "install": "echo 'compiling' && mvn compile",
   "watch": {
     "throttle": 500,
